@@ -2,7 +2,7 @@
   "homepage": "https://sajustsmile.github.io/iShaer-app--react.js-and-Firebase",
   "name": "ishaer",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.11.9",
